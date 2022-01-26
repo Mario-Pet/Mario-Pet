@@ -41,6 +41,6 @@ Developing websites, consistently bettering myself and learning future technolog
 <h2>Github Statistics<h2>
   
 <img src="https://github-readme-stats.vercel.app/api?username=Mario-Pet&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
-<img src="https://github-readme-stats.vercel.app/api?username=Mario-Pet&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mario-Pet&layout=compact&langs_count=7&theme=tokyonight"/>
 
 <!--[![Visitors](https://visitor-badge.glitch.me/badge?page_id=Mario-Pet.Mario-Pet)](https://www.mariopetkovic.com/)-->
