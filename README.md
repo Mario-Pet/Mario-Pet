@@ -41,6 +41,6 @@ Developing websites, consistently bettering myself and learning future technolog
 <h2>Github Statistics<h2>
   
 [![maki's github stats](https://github-readme-stats.vercel.app/api?username=Mario-Pet)](https://github.com/Mario-Pet)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mario-Pet&layout=compact)](https://github.com/Mario-Pet)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mario-Pet&layout=compact&theme=tokyonight)](https://github.com/Mario-Pet)
 
 <!--[![Visitors](https://visitor-badge.glitch.me/badge?page_id=Mario-Pet.Mario-Pet)](https://www.mariopetkovic.com/)-->
