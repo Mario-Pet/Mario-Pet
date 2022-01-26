@@ -1,6 +1,6 @@
 ![banner](https://i.imgur.com/SMXJSpT.png)
 ## hello, I'm maki.
-Developing websites, consistently bettering myself and learning future technologies are my kind of cup of tea. I love challanges, classical music, learning in general, socializng and I'm based out of Augsburg, Germany!🇩🇪 Also the languages I can speak are: 🇩🇪 🇬🇧 🇧🇦 🇭🇷 🇷🇸
+Developing websites, consistently bettering myself and learning future technologies are my kind of cup of tea. I love challanges, classical music, learning in general, socializng and I'm based out of Augsburg, Germany! 🇩🇪 Also the languages I can speak are: 🇩🇪 🇬🇧 🇧🇦 🇭🇷 🇷🇸
 
 <h3>Reach out to me</h3>
 
