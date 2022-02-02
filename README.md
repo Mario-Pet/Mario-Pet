@@ -15,6 +15,7 @@ Developing websites, consistently bettering myself and learning future technolog
 - Projects to improve expereince
 - My personal website
 - Codewars
+- Codecademy
 
 <h2>What I'm currently learning:</h2>
 
