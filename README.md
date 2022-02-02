@@ -20,7 +20,7 @@ Developing websites, consistently bettering myself and learning future technolog
 
 - React
 - Node.js
-- Google Cloud
+- Google Cloud/Firebase
 
 <h2>Technical Skills & Education</h2>
 
